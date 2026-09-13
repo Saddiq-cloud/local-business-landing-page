@@ -123,7 +123,8 @@ When a visitor submits the form:
 1. The page does not reload.
 2. JavaScript reads the visitor's name.
 3. A personalized confirmation message is displayed.
-4. The form is automatically cleared.
+4.The contact enquiry form is a frontend-only demo and does not send actual messages.
+5. The form is automatically cleared.
 
 Example:
 
