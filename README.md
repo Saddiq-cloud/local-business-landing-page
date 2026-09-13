@@ -215,6 +215,9 @@ Project repository:
 
 https://github.com/Saddiq-cloud/local-business-landing-page
 
+### Live Website
+https://willowy-malasada-9fcb2e.netlify.app/
+
 Project Status
 
 Completed
